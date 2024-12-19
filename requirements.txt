@@ -1,5 +1,5 @@
 discord.py==2.0.0
 easyocr==1.6.2
-torch==1.13.1+cpu
+torch
 Pillow==9.5.0
 numpy==1.24.3
