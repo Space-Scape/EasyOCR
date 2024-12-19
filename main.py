@@ -1,5 +1,6 @@
 import discord
 import easyocr
+import numpy
 import re
 import os
 
