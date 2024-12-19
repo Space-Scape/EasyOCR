@@ -1,6 +1,6 @@
-discord.py
+discord.py==2.0.0
+easyocr==1.6.2
 torch==2.0.1
 torchvision==0.15.2
-easyocr==1.6.2
-Pillow
-numpy==1.21.2
+Pillow==9.5.0
+opencv-python-headless==4.7.0.72
